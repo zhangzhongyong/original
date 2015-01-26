@@ -4,4 +4,11 @@ A : staged
 M : modified
 ??: untracked
 
+
 AM :  staged then modified then unstaged
+
+this is new line
+this is second line
+
+more and more
+ new and new
