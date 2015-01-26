@@ -1,0 +1,7 @@
+git status -s
+
+A : staged
+M : modified
+??: untracked
+
+AM :  staged then modified then unstaged
